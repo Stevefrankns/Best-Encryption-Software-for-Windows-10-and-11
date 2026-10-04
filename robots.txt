@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-encryption-software-windows-10-11.vercel.app/sitemap.xml
